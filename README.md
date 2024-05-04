@@ -5,7 +5,7 @@
 ### 技术栈：SpringBoot+mysql+mybatis+maven+vue
 
 ## 运行
-  前端项目跑起来以后，打包dist，放到nginx
+  前端项目跑起来以后，打包放到nginx，
   后端直接idea运行
   ### 需要更改的配置
   application.yml里面的数据库和阿里云oss配置(不改会报错，我的key已经失效)
